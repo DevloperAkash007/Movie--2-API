@@ -1,0 +1,4 @@
+com/example/movie/model/MovieRowMapper.class
+com/example/movie/model/Movie.class
+com/example/movie/repository/MovieRepository.class
+com/example/movie/service/MovieH2Service.class

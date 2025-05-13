@@ -1,0 +1,6 @@
+/home/nxtwave/movie/src/main/java/com/example/movie/MovieApplication.java
+/home/nxtwave/movie/src/main/java/com/example/movie/repository/MovieRepository.java
+/home/nxtwave/movie/src/main/java/com/example/movie/controller/MovieController.java
+/home/nxtwave/movie/src/main/java/com/example/movie/model/Movie.java
+/home/nxtwave/movie/src/main/java/com/example/movie/service/MovieH2Service.java
+/home/nxtwave/movie/src/main/java/com/example/movie/model/MovieRowMapper.java
